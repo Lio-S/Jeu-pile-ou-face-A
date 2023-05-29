@@ -1,4 +1,4 @@
-# **Jeux-pile-ou-face-A_B >> Paradoxe de Parrondo**
+# **Jeux-pile-ou-face-A_B_C >> Paradoxe de Parrondo**
 # *Simples jeux de pile ou face*
 (A) avec une pièce biaisée (pile avec une probabilité de p=0.49),
 puis 
