@@ -7,3 +7,4 @@ puis
 (C) à chaque tour, on lance une pièce (cette fois-ci...) équilibrée ! Si l'on a pile, on joue au jeu A, sinon on joue au jeu B.
 
 >>>>Jeux A et B perdants, jeu mixte (C) gagnant...
+>>>>Source : Test final https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees
